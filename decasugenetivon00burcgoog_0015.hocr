@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decasugenetivon00burcgoog_0015.png"; bbox 0 0 4770 5822; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 329 3475 475 3750">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 329 3475 475 3750">
+     <span class='ocr_line' id='line_1_1' title="bbox 329 3475 475 3550; baseline -0.041 0"><span class='ocrx_word' id='word_1_1' title='bbox 329 3475 475 3550; x_wconf 71' lang='lat' dir='ltr'>coesi</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 330 3674 475 3750; baseline -0.021 0"><span class='ocrx_word' id='word_1_2' title='bbox 330 3674 475 3750; x_wconf 67' lang='lat' dir='ltr'>coeti</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 332 3876 476 3948">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 332 3876 476 3948">
+     <span class='ocr_line' id='line_1_3' title="bbox 332 3876 476 3948; baseline -0.014 0"><span class='ocrx_word' id='word_1_3' title='bbox 332 3876 476 3948; x_wconf 70' lang='lat' dir='ltr'>colli</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 331 4076 505 4169">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 331 4076 505 4169">
+     <span class='ocr_line' id='line_1_4' title="bbox 331 4076 505 4169; baseline -0.029 -15"><span class='ocrx_word' id='word_1_4' title='bbox 331 4076 505 4169; x_wconf 73' lang='lat' dir='ltr'><strong>comag1</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 330 4278 566 4356">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 330 4278 566 4356">
+     <span class='ocr_line' id='line_1_5' title="bbox 330 4278 566 4356; baseline 0.017 -9"><span class='ocrx_word' id='word_1_5' title='bbox 330 4278 566 4356; x_wconf 80' lang='lat' dir='ltr'>come10n1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 331 4477 507 4553">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 331 4477 507 4553">
+     <span class='ocr_line' id='line_1_6' title="bbox 331 4477 507 4553; baseline -0.028 0"><span class='ocrx_word' id='word_1_6' title='bbox 331 4477 507 4553; x_wconf 67' lang='lat' dir='ltr'><strong>comlni</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1232 1859 1375 1937">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1232 1859 1375 1937">
+     <span class='ocr_line' id='line_1_7' title="bbox 1232 1859 1375 1937; baseline -0.049 0"><span class='ocrx_word' id='word_1_7' title='bbox 1232 1859 1375 1937; x_wconf 68' lang='lat' dir='ltr'>Cordi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 1232 2060 1435 2134">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 1232 2060 1435 2134">
+     <span class='ocr_line' id='line_1_8' title="bbox 1232 2060 1435 2134; baseline -0.01 0"><span class='ocrx_word' id='word_1_8' title='bbox 1232 2060 1435 2134; x_wconf 74' lang='lat' dir='ltr'>corneli</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 0 0 2401 5814">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 0 0 2401 5814">
+     <span class='ocr_line' id='line_1_9' title="bbox 0 0 2401 5814; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2401 5814; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
